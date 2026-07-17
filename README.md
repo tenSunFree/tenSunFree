@@ -18,9 +18,9 @@ I'm interested in joining teams that care deeply about engineering quality and c
 ### Core Stack
 
 ![Android](https://img.shields.io/badge/Android-3DDC84?logo=android\&logoColor=white)
+![Kotlin Multiplatform](https://img.shields.io/badge/Kotlin_Multiplatform-7F52FF?logo=kotlin\&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk\&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin\&logoColor=white)
-![Kotlin Multiplatform](https://img.shields.io/badge/Kotlin_Multiplatform-7F52FF?logo=kotlin\&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter\&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?logo=dart\&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-24292E?logo=github-actions\&logoColor=white)
