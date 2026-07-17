@@ -16,23 +16,25 @@ I'm interested in joining teams that care deeply about engineering quality and c
 
 ### Core Stack
 
-![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-24292E?logo=github-actions&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?logo=android\&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk\&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin\&logoColor=white)
+![Kotlin Multiplatform](https://img.shields.io/badge/Kotlin_Multiplatform-7F52FF?logo=kotlin\&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter\&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?logo=dart\&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-24292E?logo=github-actions\&logoColor=white)
 
 ### Learning & Exploring
 
-![Swift](https://img.shields.io/badge/Swift-F05138?logo=swift&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?logo=springboot&logoColor=white)
-![Python](https://img.shields.io/badge/Python-FFD43B?logo=python&logoColor=306998)
-![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
+![iOS](https://img.shields.io/badge/iOS-000000?logo=apple\&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-F05138?logo=swift\&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?logo=go\&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql\&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker\&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?logo=springboot\&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?logo=react\&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-FFD43B?logo=python\&logoColor=306998)
 
 ### Contact
 
