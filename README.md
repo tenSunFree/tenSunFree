@@ -13,7 +13,9 @@ I enjoy building reliable, maintainable, and high-quality software products, wit
 - React / TypeScript — Building type-safe, maintainable web applications and expanding full-stack product engineering capabilities
 - Python / AI / RAG — Exploring AI-augmented applications, RAG pipelines, and LLM integration
 
-I'm interested in joining teams that care deeply about engineering quality and continuously improving products toward world-class standards. Feel free to reach out.
+I'm interested in joining teams that care deeply about engineering quality and continuously improving products toward world-class standards.
+
+I'm also always happy to connect with fellow developers, exchange ideas about software engineering, and collaborate on building meaningful products together. Feel free to reach out.
 
 ### Core Stack
 
