@@ -6,11 +6,11 @@ I enjoy building reliable, maintainable, and high-quality software products, wit
 
 ### Expanding My Skill Set
 
-- Kotlin Multiplatform — Sharing business logic and core components across Android and iOS
+- Kotlin / Kotlin Multiplatform — Sharing business logic and core components across Android and iOS
 - iOS / Swift — Expanding native iOS development expertise and broadening mobile platform coverage
-- Go Backend — Building clean and testable RESTful APIs with chi, PostgreSQL, sqlc, and Docker
+- Go / Backend — Building clean and testable RESTful APIs with chi, PostgreSQL, sqlc, and Docker
 - Java / Spring Boot — Developing robust backend services and exploring enterprise application architecture
-- React / TypeScript — Building type-safe, maintainable web applications and expanding full-stack product engineering capabilities
+- TypeScript / React — Building type-safe, maintainable web applications and expanding full-stack product engineering capabilities
 - Python / AI / RAG — Exploring AI-augmented applications, RAG pipelines, and LLM integration
 
 I'm interested in joining teams that care deeply about engineering quality and continuously improving products toward world-class standards.
