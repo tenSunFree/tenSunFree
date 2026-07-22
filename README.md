@@ -11,7 +11,7 @@ I enjoy building reliable, maintainable, and high-quality software products, wit
 - Go / Backend — Building clean and testable RESTful APIs with chi, PostgreSQL, sqlc, and Docker
 - Java / Spring Boot — Developing robust backend services and exploring enterprise application architecture
 - TypeScript / React — Building type-safe, maintainable web applications and expanding full-stack product engineering capabilities
-- Python / AI / RAG — Exploring AI-augmented applications, RAG pipelines, and LLM integration
+- Python / AI Applications — Exploring AI-powered applications with LLM integration, RAG, tool calling, memory, recommendation systems, and agentic workflows
 
 I'm interested in joining teams that care deeply about engineering quality and continuously improving products toward world-class standards.
 
