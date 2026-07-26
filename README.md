@@ -1,6 +1,6 @@
 # Hi, I'm Sun
 
-Android & Flutter Developer based in Taipei, Taiwan.
+I'm a Senior Android and Flutter Engineer based in Taipei, Taiwan.
 
 I enjoy building reliable, maintainable, and high-quality software products, with a strong focus on architecture, code quality, testing, CI/CD, and long-term maintainability.
 
