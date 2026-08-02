@@ -1,4 +1,4 @@
-# Hi, I'm Sun 😊
+# Hi, I'm Sun 😄
 
 I'm a Senior Android and Flutter Engineer based in Taipei, Taiwan.
 
