@@ -49,4 +49,4 @@ If you're working on such a project, feel free to reach out and share what you'r
 
 ## Contact
 
-📧 [a0985092384@gmail.com](mailto:a0985092384@gmail.com)
+[a0985092384@gmail.com](mailto:a0985092384@gmail.com)
