@@ -12,7 +12,7 @@ My primary experience is in mobile application development, particularly Android
 - **iOS / Swift** — Expanding my native iOS development expertise and broadening mobile platform coverage
 - **Go / Backend** — Building clean, testable RESTful APIs with chi, PostgreSQL, sqlc, and Docker
 - **Java / Spring Boot** — Developing robust backend services and exploring enterprise application architecture
-- **TypeScript / React** — Building type-safe, maintainable web applications and expanding full-stack product engineering capabilities
+- **TypeScript / React / Next.js** — Building type-safe web applications with Next.js App Router and TanStack Query, expanding full-stack product engineering capabilities
 - **Python / AI Applications** — Exploring LLM integration, RAG, tool calling, memory, recommendation systems, evaluation, and agentic workflows
 
 I'm interested in joining teams that care deeply about engineering quality, thoughtful collaboration, and continuously improving products toward world-class standards.
@@ -38,6 +38,7 @@ I'm also always happy to connect with fellow developers, exchange ideas about so
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?logo=springboot&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-FFD43B?logo=python&logoColor=306998)
 
