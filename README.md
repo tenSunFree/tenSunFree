@@ -12,7 +12,9 @@ My primary experience is in mobile application development, particularly Android
 * **iOS / Swift** — Expanding my native iOS development expertise and broadening mobile platform coverage
 * **Go / Backend** — Building clean, testable RESTful APIs with chi, PostgreSQL, sqlc, and Docker
 * **Java / Spring Boot** — Developing robust backend services and exploring enterprise application architecture
-* **TypeScript / React / Next.js** — Building type-safe web applications with Next.js App Router and TanStack Query, expanding full-stack product engineering capabilities
+* **TypeScript / React / Next.js** — Building type-safe web applications with Next.js App Router, TanStack Query, and Zod
+* **TypeScript / Vue / Nuxt** — Building SSR web applications with Nuxt, using Pinia for state management and the Composition API, while expanding full-stack product engineering capabilities into the Vue ecosystem
+* **TypeScript / Node.js / NestJS** — Learning enterprise backend architecture with NestJS, using modular design, dependency injection, validation, and structured REST API development to build maintainable and testable backend services
 * **Python / AI Applications** — Exploring LLM integration, RAG, tool calling, memory, recommendation systems, evaluation, and agentic workflows
 * **C++ / Robotics** — Building robotics runtime and simulation components with ROS 2, Nav2, SLAM, and Gazebo
 * **Google Cloud (GCP)** — Deploying and operating backend and AI workloads with Cloud Run and managed cloud services
@@ -41,6 +43,10 @@ I'm also always happy to connect with fellow developers, exchange ideas about so
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?logo=springboot\&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?logo=react\&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs\&logoColor=white)
+![Vue](https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs\&logoColor=white)
+![Nuxt](https://img.shields.io/badge/Nuxt-00DC82?logo=nuxt\&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs\&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?logo=nestjs\&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript\&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-FFD43B?logo=python\&logoColor=306998)
 ![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus\&logoColor=white)
