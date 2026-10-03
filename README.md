@@ -20,7 +20,7 @@ My primary experience is in mobile application development, particularly Android
 * **Google Cloud (GCP)** — Deploying and operating backend and AI workloads with Cloud Run and managed cloud services
 * **Terraform / Infrastructure as Code** — Provisioning and managing cloud infrastructure across staging and production environments, including Cloud Run, Cloud SQL, IAM, Secret Manager, and monitoring
 
-I'm interested in joining teams that care deeply about engineering quality, thoughtful collaboration, and continuously improving products toward world-class standards.
+I'm interested in working with teams that value strong engineering fundamentals, pragmatic architecture, high-quality delivery, and continuous improvement—while building products that are reliable, scalable, and genuinely useful to users.
 
 I'm also always happy to connect with fellow developers, exchange ideas about software engineering, and collaborate on building meaningful products together.
 
