@@ -15,6 +15,7 @@ My primary experience is in mobile application development, particularly Android
 * **TypeScript / React / Next.js** — Building type-safe web applications with Next.js App Router, TanStack Query, and Zod
 * **TypeScript / Vue / Nuxt** — Building SSR web applications with Nuxt, using Pinia for state management and the Composition API, while expanding full-stack product engineering capabilities into the Vue ecosystem
 * **TypeScript / Node.js / NestJS** — Learning enterprise backend architecture with NestJS, using modular design, dependency injection, validation, and structured REST API development to build maintainable and testable backend services
+* **Model Context Protocol (MCP) / AI Tooling** — Building type-safe MCP servers with TypeScript, MCP SDK, and Zod, exposing tools, resources, and prompts to AI clients through stdio and Streamable HTTP, with OAuth-based authentication, Docker packaging, and automated testing
 * **Python / AI Applications** — Exploring LLM integration, RAG, tool calling, memory, recommendation systems, evaluation, and agentic workflows
 * **C++ / Robotics** — Building robotics runtime and simulation components with ROS 2, Nav2, SLAM, and Gazebo
 * **Google Cloud (GCP)** — Deploying and operating backend and AI workloads with Cloud Run and managed cloud services
@@ -49,6 +50,8 @@ I'm also always happy to connect with fellow developers, exchange ideas about so
 ![Nuxt](https://img.shields.io/badge/Nuxt-00DC82?logo=nuxt&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP-000000?logo=modelcontextprotocol&logoColor=white)
+![Zod](https://img.shields.io/badge/Zod-3E67B1?logo=zod&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-FFD43B?logo=python&logoColor=306998)
 ![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white)
 ![ROS 2](https://img.shields.io/badge/ROS_2-22314E?logo=ros&logoColor=white)
