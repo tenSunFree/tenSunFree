@@ -4,7 +4,7 @@ I'm a Senior Android and Flutter Engineer based in Taipei, Taiwan.
 
 I enjoy building reliable, maintainable, and high-quality software products, with a strong focus on software architecture, code quality, automated testing, CI/CD, observability, and long-term maintainability.
 
-My primary experience is in mobile application development, particularly Android and Flutter. I'm also expanding into backend, web, iOS, AI, cloud infrastructure, and robotics development to strengthen my ability to design and deliver complete software products across multiple platforms.
+My primary experience is in mobile application development, particularly Android and Flutter. I'm also expanding into backend, web, iOS, AI, cloud infrastructure, reliability engineering, and robotics to strengthen my ability to design, build, deploy, and operate complete software products across multiple platforms.
 
 ## Expanding My Skill Set
 
@@ -18,8 +18,9 @@ My primary experience is in mobile application development, particularly Android
 * **Model Context Protocol (MCP) / AI Tooling** — Building type-safe MCP servers with TypeScript, MCP SDK, and Zod, exposing tools, resources, and prompts to AI clients through stdio and Streamable HTTP, with OAuth-based authentication, Docker packaging, and automated testing
 * **Python / AI Applications** — Exploring LLM integration, RAG, tool calling, memory, recommendation systems, evaluation, and agentic workflows
 * **C++ / Robotics** — Building robotics runtime and simulation components with ROS 2, Nav2, SLAM, and Gazebo
-* **Google Cloud (GCP)** — Deploying and operating backend and AI workloads with Cloud Run and managed cloud services
-* **Terraform / Infrastructure as Code** — Provisioning and managing cloud infrastructure across staging and production environments, including Cloud Run, Cloud SQL, IAM, Secret Manager, and monitoring
+* **Google Cloud (GCP)** — Deploying and operating production workloads with Cloud Run, Cloud SQL, IAM, Secret Manager, monitoring, and managed cloud services
+* **Terraform / Infrastructure as Code** — Provisioning and managing reproducible GCP infrastructure across staging and production environments
+* **SRE / Reliability Engineering** — Designing observability and reliability practices with SLIs/SLOs, SLO-based alerting, operational runbooks, load testing, capacity planning, performance tuning, incident response, postmortems, and disaster recovery
 
 I'm interested in working with teams that value strong engineering fundamentals, pragmatic architecture, high-quality delivery, and continuous improvement—while building products that are reliable, scalable, and genuinely useful to users.
 
